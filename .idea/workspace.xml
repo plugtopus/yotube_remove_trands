@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c556e76b-42e5-4de8-9000-8de31319e8a7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/0.6.6_0.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/_locales/ru/messages.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/art/640x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/art/640x400_1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/art/640x400_2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/art/demo.webm" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/core/bg.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/core/cs.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/core/jquery-3.1.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/checkedCommentStyle.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/checkedMineStyle.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/checkedPlayListStyle.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/checkedRightStyle.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/css/checkedTrandingStyle.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/html.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/Youtube.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/languages.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/popup/popup.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/popup/popup.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/popup/popup.js" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+              <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -181,12 +157,20 @@
       <updated>1519629916972</updated>
       <workItem from="1519629918199" duration="15079000" />
       <workItem from="1519708939454" duration="2479000" />
-      <workItem from="1519716929406" duration="1103000" />
+      <workItem from="1519716929406" duration="1153000" />
     </task>
+    <task id="LOCAL-00001" summary="init 2">
+      <created>1519718043679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1519718043679</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18661000" />
+    <option name="totallyTimeSpent" value="18711000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -217,6 +201,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="init 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -315,6 +303,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="740">
           <caret line="2140" column="78" lean-forward="false" selection-start-line="2140" selection-start-column="70" selection-end-line="2140" selection-end-column="78" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -357,6 +348,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
           <caret line="46" column="30" lean-forward="false" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -425,7 +417,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
           <folding />
         </state>
       </provider>
