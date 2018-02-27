@@ -1,0 +1,7 @@
+#feed, #video-masthead {
+	display: none;
+}
+
+ytd-browse[page-subtype="home"] {
+	display: none;
+}

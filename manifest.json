@@ -1,0 +1,31 @@
+{
+   "background": {
+      "scripts": [ "core/jquery-3.1.1.min.js", "core/bg.js" ]
+   },
+   "browser_action": {
+      "default_icon": "img/icon.png",
+      "default_popup": "popup/popup.html",
+      "default_title": "__MSG_title__"
+   },
+   "content_scripts": [ {
+      "js": [ "core/jquery-3.1.1.min.js", "core/cs.js" ],
+      "matches": [ "*://*.youtube.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "ru",
+   "description": "__MSG_desc__",
+   "icons": {
+      "128": "img/icon.png",
+      "16": "img/icon.png",
+      "32": "img/icon.png",
+      "48": "img/icon.png"
+   },
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "permissions": [ "tabs", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2018.2.26.1",
+   "web_accessible_resources": [ "css/checkedMineStyle.css", "css/checkedRightStyle.css", "css/checkedCommentStyle.css", "css/checkedPlayListStyle.css", "css/checkedTrandingStyle.css" ],
+   "author": "Plugtopus Agency",
+   "homepage_url": "https://plugtopus.agency"
+}

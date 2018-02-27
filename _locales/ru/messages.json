@@ -1,0 +1,40 @@
+{
+   "extDefTitle": {
+      "message": "Убрать лишнее с Youtube"
+   },
+   "extDescription": {
+      "description": "Убирает отвлекающие рекомендации",
+      "message": "Расширение убирает рекомендации на YouTube. Просто включи нужную опцию одним кликом."
+   },
+   "extName": {
+      "description": "Убирает отвлекающие рекомендации",
+      "message": "Убрать рекомендации YouTube"
+   },
+   "hideComment": {
+      "message": "Убрать блок комментариев"
+   },
+   "hidePlayList": {
+      "message": "Убрать блок       Playlist"
+   },
+   "hideRecomCommentcss": {
+      "message": "-32px 17px 0 0"
+   },
+   "hideRecomHome": {
+      "message": "Убрать главные рекомендации"
+   },
+   "hideRecomHomecss": {
+      "message": "-35px 17px 0 0"
+   },
+   "hideRecomPlayListcss": {
+      "message": "-32px 17px 0 0"
+   },
+   "hideRecomRight": {
+      "message": "Убрать правые рекомендации"
+   },
+   "hideRecomRightcss": {
+      "message": "-35px 17px 0 0"
+   },
+   "hideTranding": {
+      "message": "Убрать блок                В тренде"
+   }
+}
