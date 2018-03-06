@@ -1,6 +1,7 @@
 {
+   "author": "Plugtopus Agency",
    "background": {
-      "scripts": [ "core/jquery-3.1.1.min.js", "core/bg.js" ]
+      "scripts": [ "core/jquery.min.js", "core/bg.js" ]
    },
    "browser_action": {
       "default_icon": "img/icon.png",
@@ -8,12 +9,13 @@
       "default_title": "__MSG_extDefTitle__"
    },
    "content_scripts": [ {
-      "js": [ "core/jquery-3.1.1.min.js", "core/cs.js" ],
+      "js": [ "core/jquery.min.js", "core/cs.js" ],
       "matches": [ "*://*.youtube.com/*" ],
       "run_at": "document_start"
    } ],
    "default_locale": "ru",
    "description": "__MSG_extDescription__",
+   "homepage_url": "https://plugtopus.agency",
    "icons": {
       "128": "img/icon.png",
       "16": "img/icon.png",
@@ -24,8 +26,6 @@
    "name": "__MSG_extName__",
    "permissions": [ "tabs", "storage" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "2018.2.26.1",
-   "web_accessible_resources": [ "css/checkedMineStyle.css", "css/checkedRightStyle.css", "css/checkedCommentStyle.css", "css/checkedPlayListStyle.css", "css/checkedTrandingStyle.css" ],
-   "author": "Plugtopus Agency",
-   "homepage_url": "https://plugtopus.agency"
+   "version": "2018.3.6.1",
+   "web_accessible_resources": [ "css/checkedMineStyle.css", "css/checkedRightStyle.css", "css/checkedCommentStyle.css", "css/checkedPlayListStyle.css", "css/checkedTrandingStyle.css" ]
 }
